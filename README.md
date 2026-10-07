@@ -6,4 +6,4 @@ Download the version you want, then copy colonies.js into the zip's Game folder 
 In that folder, run python -m http.server 8000, then open http://localhost:8000/index.html. In Use mods, enter:
 
 data.js
-colonies.js
+colonies(V#.#.#).js
